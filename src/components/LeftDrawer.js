@@ -1,4 +1,4 @@
-import { KeyboardArrowLeft, KeyboardArrowRight } from "@mui/icons-material";
+import { KeyboardArrowLeft } from "@mui/icons-material";
 import {
   Drawer,
   IconButton,

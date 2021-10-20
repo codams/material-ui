@@ -1,12 +1,6 @@
-import {
-  KeyboardArrowLeft,
-  KeyboardArrowRight,
-  Add,
-  WarningRounded,
-} from "@mui/icons-material";
+import { KeyboardArrowRight, WarningRounded } from "@mui/icons-material";
 import {
   AppBar,
-  Container,
   IconButton,
   Toolbar,
   Typography,
@@ -16,12 +10,9 @@ import {
   Stack,
   Checkbox,
   FormControlLabel,
-  Fab,
   Button,
   Alert,
-  Icon,
 } from "@mui/material";
-import { margin } from "@mui/system";
 import { useState } from "react";
 import { LeftDrawer } from "./LeftDrawer";
 
